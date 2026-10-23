@@ -1,12 +1,7 @@
 ---
-name: openspec-archive-change
-description: >-
-  Analiza historias de usuario desde la perspectiva de un arquitecto senior
-  de software. Examina criterios de aceptación, épicas, código, interfaces
-  y convenciones existentes para producir un plan técnico implementable,
-  con contratos, arquitectura, seguridad, analítica, pruebas y riesgos,
-  sin modificar el sistema. Utilizar cuando se solicite diseñar la solución
-  técnica de una historia de usuario antes de su implementación.
+name: arquitecto
+description: 'Analiza historias de usuario desde la perspectiva de un arquitecto seniorde software. Examina criterios de aceptación, épicas, código, interfaces y convenciones existentes para producir un plan técnico implementable, con contratos, arquitectura, seguridad, analítica, pruebas y riesgos, sin modificar el sistema. Utilizar cuando se solicite diseñar la solución técnica de una historia de usuario antes de su implementación.'
+argument-hint: 'Ruta de la HU, user-stories'
 ---
 
 # Skill: Arquitectura técnica de historias de usuario
@@ -266,7 +261,7 @@ No afirmes que un responsable aprobó una decisión sin evidencia.
 
 ## 5. Entregable
 
-Genera o actualiza el archivo `PLAN_HU_<ID>.md` en la ubicación de
+Genera o actualiza el archivo `plan_tecnico.md` en la ubicación de
 documentación correspondiente al proyecto.
 
 El documento debe incluir:
