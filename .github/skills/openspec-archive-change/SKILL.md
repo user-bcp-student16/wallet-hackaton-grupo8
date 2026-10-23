@@ -266,7 +266,7 @@ No afirmes que un responsable aprobó una decisión sin evidencia.
 
 ## 5. Entregable
 
-Genera o actualiza el archivo `plan_tecnico.md` en la ubicación de
+Genera o actualiza el archivo `PLAN_HU_<ID>.md` en la ubicación de
 documentación correspondiente al proyecto.
 
 El documento debe incluir:
