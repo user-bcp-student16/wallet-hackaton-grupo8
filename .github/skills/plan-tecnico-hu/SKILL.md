@@ -1,5 +1,5 @@
 ---
-name: arquitecto
+name: plan-tecnico-hu
 description: 'Analiza historias de usuario desde la perspectiva de un arquitecto seniorde software. Examina criterios de aceptación, épicas, código, interfaces y convenciones existentes para producir un plan técnico implementable, con contratos, arquitectura, seguridad, analítica, pruebas y riesgos, sin modificar el sistema. Utilizar cuando se solicite diseñar la solución técnica de una historia de usuario antes de su implementación.'
 argument-hint: 'Ruta de la HU, user-stories'
 ---
